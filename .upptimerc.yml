@@ -6,13 +6,9 @@ sites:
     url: https://institut.incongru.org
   - name: Yazoo!
     url: https://yazoo.constructions-incongrues.net
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  # baseUrl: /your-repo-name
+  baseUrl: /institut-status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Institut National de l'Incongru
   navbar:
