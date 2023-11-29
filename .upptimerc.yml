@@ -4,6 +4,10 @@ repo: institut-status
 sites:
   - name: Institut
     url: https://institut.incongru.org
+  - name: Ivresse
+    url: https://data.constructions-incongrues.net/musiques-incongrues
+  - name: Tentacules
+    url: https://tentacules.interzone.network
   - name: Yazoo!
     url: https://yazoo.constructions-incongrues.net
 
