@@ -2,7 +2,7 @@ owner: constructions-incongrues
 repo: institut-status
 
 sites:
-  - name: Website
+  - name: Institut
     url: https://institut.incongru.org
   - name: Yazoo!
     url: https://yazoo.constructions-incongrues.net
