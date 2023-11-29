@@ -9,7 +9,7 @@ sites:
   - name: Tentacules
     url: https://tentacules.interzone.network
   - name: Yazoo!
-    url: https://yazoo.constructions-incongrues.net
+    url: https://yazoo.constructions-incongrues.net/health
 
 status-website:
   baseUrl: /institut-status
