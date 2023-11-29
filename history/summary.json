@@ -60,19 +60,19 @@
     "url": "https://yazoo.constructions-incongrues.net",
     "icon": "https://icons.duckduckgo.com/ip3/yazoo.constructions-incongrues.net.ico",
     "slug": "yazoo",
-    "status": "down",
-    "uptime": "82.18%",
-    "uptimeDay": "82.18%",
-    "uptimeWeek": "82.18%",
-    "uptimeMonth": "82.18%",
-    "uptimeYear": "82.18%",
+    "status": "up",
+    "uptime": "81.73%",
+    "uptimeDay": "81.73%",
+    "uptimeWeek": "81.73%",
+    "uptimeMonth": "81.73%",
+    "uptimeYear": "81.73%",
     "time": 262,
     "timeDay": 262,
     "timeWeek": 262,
     "timeMonth": 262,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-11-29": 184
+      "2023-11-29": 190
     }
   }
 ]
