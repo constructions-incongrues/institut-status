@@ -1,7 +1,7 @@
 url: https://yazoo.constructions-incongrues.net/health
-status: down
-code: 404
+status: up
+code: 200
 responseTime: 380
-lastUpdated: 2023-12-17T19:28:29.144Z
+lastUpdated: 2023-12-17T19:44:39.284Z
 startTime: 2023-11-29T00:47:42.960Z
 generator: Upptime <https://github.com/upptime/upptime>
