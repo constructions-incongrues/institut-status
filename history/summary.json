@@ -22,9 +22,9 @@
     "url": "https://data.constructions-incongrues.net/musiques-incongrues/",
     "icon": "https://icons.duckduckgo.com/ip3/data.constructions-incongrues.net.ico",
     "slug": "ivresse",
-    "status": "up",
+    "status": "down",
     "uptime": "95.05%",
-    "uptimeDay": "99.53%",
+    "uptimeDay": "99.51%",
     "uptimeWeek": "86.23%",
     "uptimeMonth": "95.67%",
     "uptimeYear": "95.05%",
@@ -99,8 +99,7 @@
       "2023-12-30": 439,
       "2023-12-28": 5,
       "2023-12-27": 78,
-      "2023-12-25": 11,
-      "2023-12-24": 6
+      "2023-12-25": 11
     }
   },
   {
