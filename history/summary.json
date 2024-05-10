@@ -22,9 +22,9 @@
     "url": "https://data.constructions-incongrues.net/musiques-incongrues/",
     "icon": "https://icons.duckduckgo.com/ip3/data.constructions-incongrues.net.ico",
     "slug": "ivresse",
-    "status": "up",
+    "status": "down",
     "uptime": "95.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "93.97%",
     "uptimeMonth": "92.51%",
     "uptimeYear": "95.12%",
@@ -34,6 +34,7 @@
     "timeMonth": 2826,
     "timeYear": 3619,
     "dailyMinutesDown": {
+      "2024-05-10": 0,
       "2024-05-07": 170,
       "2024-05-06": 16,
       "2024-05-05": 422,
@@ -99,8 +100,7 @@
       "2024-01-08": 4,
       "2024-01-05": 21,
       "2024-01-04": 12,
-      "2024-01-03": 8,
-      "2024-01-02": 8
+      "2024-01-03": 8
     }
   },
   {
@@ -129,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yazoo.constructions-incongrues.net.ico",
     "slug": "yazoo",
     "status": "up",
-    "uptime": "89.09%",
+    "uptime": "89.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.29%",
-    "uptimeYear": "89.09%",
+    "uptimeMonth": "91.90%",
+    "uptimeYear": "89.10%",
     "time": 1423,
     "timeDay": 253,
     "timeWeek": 303,
