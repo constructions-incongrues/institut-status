@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/data.constructions-incongrues.net.ico",
     "slug": "ivresse",
     "status": "down",
-    "uptime": "94.91%",
-    "uptimeDay": "87.69%",
-    "uptimeWeek": "90.79%",
+    "uptime": "94.90%",
+    "uptimeDay": "87.22%",
+    "uptimeWeek": "90.73%",
     "uptimeMonth": "90.83%",
-    "uptimeYear": "94.91%",
+    "uptimeYear": "94.90%",
     "time": 3537,
     "timeDay": 5852,
     "timeWeek": 1653,
     "timeMonth": 2755,
     "timeYear": 3537,
     "dailyMinutesDown": {
-      "2024-05-15": 177,
+      "2024-05-15": 184,
       "2024-05-14": 280,
       "2024-05-13": 177,
       "2024-05-11": 291,
@@ -129,9 +129,9 @@
     "url": "https://yazoo.constructions-incongrues.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/yazoo.constructions-incongrues.net.ico",
     "slug": "yazoo",
-    "status": "up",
+    "status": "down",
     "uptime": "89.26%",
-    "uptimeDay": "87.53%",
+    "uptimeDay": "87.52%",
     "uptimeWeek": "95.77%",
     "uptimeMonth": "98.10%",
     "uptimeYear": "89.26%",
@@ -190,7 +190,7 @@
       "2023-12-03": 231,
       "2023-12-02": 233,
       "2023-11-30": 13,
-      "2023-11-29": 242
+      "2023-11-29": 232
     }
   }
 ]
