@@ -22,17 +22,17 @@
     "url": "https://data.constructions-incongrues.net/musiques-incongrues/",
     "icon": "https://icons.duckduckgo.com/ip3/data.constructions-incongrues.net.ico",
     "slug": "ivresse",
-    "status": "up",
+    "status": "down",
     "uptime": "95.76%",
-    "uptimeDay": "98.29%",
+    "uptimeDay": "98.28%",
     "uptimeWeek": "97.04%",
     "uptimeMonth": "95.05%",
     "uptimeYear": "95.76%",
-    "time": 3532,
-    "timeDay": 7788,
-    "timeWeek": 4669,
-    "timeMonth": 2870,
-    "timeYear": 3532,
+    "time": 3523,
+    "timeDay": 6302,
+    "timeWeek": 4442,
+    "timeMonth": 2830,
+    "timeYear": 3523,
     "dailyMinutesDown": {
       "2024-05-31": 21,
       "2024-05-30": 17,
@@ -102,7 +102,7 @@
       "2024-01-31": 6,
       "2024-01-30": 8,
       "2024-01-27": 38,
-      "2024-01-25": 48
+      "2024-01-25": 39
     }
   },
   {
@@ -130,17 +130,17 @@
     "url": "https://yazoo.constructions-incongrues.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/yazoo.constructions-incongrues.net.ico",
     "slug": "yazoo",
-    "status": "up",
-    "uptime": "90.22%",
-    "uptimeDay": "99.16%",
+    "status": "down",
+    "uptime": "90.23%",
+    "uptimeDay": "99.15%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "98.46%",
-    "uptimeYear": "90.22%",
-    "time": 1417,
+    "uptimeYear": "90.23%",
+    "time": 1414,
     "timeDay": 286,
     "timeWeek": 283,
-    "timeMonth": 1131,
-    "timeYear": 1417,
+    "timeMonth": 1115,
+    "timeYear": 1414,
     "dailyMinutesDown": {
       "2024-05-31": 8,
       "2024-05-30": 4,
@@ -195,7 +195,7 @@
       "2023-12-03": 231,
       "2023-12-02": 233,
       "2023-11-30": 13,
-      "2023-11-29": 208
+      "2023-11-29": 197
     }
   }
 ]
