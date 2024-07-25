@@ -22,19 +22,19 @@
     "url": "https://data.constructions-incongrues.net/musiques-incongrues/",
     "icon": "https://icons.duckduckgo.com/ip3/data.constructions-incongrues.net.ico",
     "slug": "ivresse",
-    "status": "up",
-    "uptime": "93.32%",
-    "uptimeDay": "58.20%",
+    "status": "down",
+    "uptime": "93.33%",
+    "uptimeDay": "58.36%",
     "uptimeWeek": "51.99%",
-    "uptimeMonth": "47.52%",
-    "uptimeYear": "93.32%",
+    "uptimeMonth": "47.53%",
+    "uptimeYear": "93.33%",
     "time": 3900,
     "timeDay": 5925,
     "timeWeek": 6765,
     "timeMonth": 5530,
     "timeYear": 3900,
     "dailyMinutesDown": {
-      "2024-07-25": 95,
+      "2024-07-25": 96,
       "2024-07-24": 576,
       "2024-07-23": 665,
       "2024-07-22": 455,
@@ -61,7 +61,7 @@
       "2024-07-01": 1014,
       "2024-06-30": 958,
       "2024-06-29": 1109,
-      "2024-06-28": 527
+      "2024-06-28": 522
     }
   },
   {
@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-07-25": 248,
+      "2024-07-25": 270,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -147,7 +147,7 @@
     "uptime": "81.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "16.25%",
+    "uptimeMonth": "16.20%",
     "uptimeYear": "81.73%",
     "time": 1281,
     "timeDay": 292,
@@ -155,7 +155,7 @@
     "timeMonth": 517,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2024-07-25": 248,
+      "2024-07-25": 270,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
