@@ -1,7 +1,7 @@
 url: https://data.constructions-incongrues.net/musiques-incongrues/
-status: up
-code: 200
-responseTime: 2560
-lastUpdated: 2024-07-26T15:05:32.873Z
+status: down
+code: 503
+responseTime: 15154
+lastUpdated: 2024-07-26T18:00:12.288Z
 startTime: 2023-11-29T01:09:14.953Z
 generator: Upptime <https://github.com/upptime/upptime>
